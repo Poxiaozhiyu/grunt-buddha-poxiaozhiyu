@@ -4,6 +4,7 @@
 
 ## Where is it from?
 [grunt-buddha](https://github.com/materliu/grunt-buddha)
+
 [materliu](https://github.com/materliu)
 
 ## Getting Started
