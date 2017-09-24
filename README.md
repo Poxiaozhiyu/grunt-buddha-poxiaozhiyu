@@ -2,6 +2,10 @@
 
 > Buddha's grace illuminates code as sunshine.
 
+## Where is it from?
+[grunt-buddha](https://github.com/materliu/grunt-buddha)
+[materliu](https://github.com/materliu)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
